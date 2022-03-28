@@ -1,0 +1,1 @@
+# Shopify_boxrapido-2.5.2
